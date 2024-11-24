@@ -3,4 +3,4 @@ services:
     name: playwright-python-app
     env: python
     buildCommand: pip install -r requirements.txt && python -m playwright install
-    startCommand: python3 your_script_name.py
+    startCommand: python3 for-reference.py
