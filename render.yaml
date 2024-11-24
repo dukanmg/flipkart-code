@@ -1,0 +1,9 @@
+services:
+  - type: worker
+    name: scraper
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python scraper.py
+    environmentVariables:
+      PLAYWRIGHT_BROWSERS_PATH: /playwright-browsers
