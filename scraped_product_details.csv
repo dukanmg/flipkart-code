@@ -1,5 +1,0 @@
-url,error
-https://www.amazon.in/Samsung-Galaxy-Ultra-Green-Storage/dp/B0BT9CXXXX/ref=pd_sbs_strm_eu_t1_strm_cts_d_sccl_3_6/258-4716487-5259101?pd_rd_r=ddd0f36b-2a28-4b45-9bfd-c753af73f401&pd_rd_wg=MSO7c&pd_rd_w=EnLew&pd_rd_i=B0BT9CXXXX&psc=1,"Amazon Scraping Error: Page.goto: net::ERR_ABORTED at https://www.amazon.in/Samsung-Galaxy-Ultra-Green-Storage/dp/B0BT9CXXXX/ref=pd_sbs_strm_eu_t1_strm_cts_d_sccl_3_6/258-4716487-5259101?pd_rd_r=ddd0f36b-2a28-4b45-9bfd-c753af73f401&pd_rd_wg=MSO7c&pd_rd_w=EnLew&pd_rd_i=B0BT9CXXXX&psc=1
-Call log:
-navigating to ""https://www.amazon.in/Samsung-Galaxy-Ultra-Green-Storage/dp/B0BT9CXXXX/ref=pd_sbs_strm_eu_t1_strm_cts_d_sccl_3_6/258-4716487-5259101?pd_rd_r=ddd0f36b-2a28-4b45-9bfd-c753af73f401&pd_rd_wg=MSO7c&pd_rd_w=EnLew&pd_rd_i=B0BT9CXXXX&psc=1"", waiting until ""load""
-"

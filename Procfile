@@ -1,1 +1,1 @@
-web: python for-reference.py
+web: python scrap.py
