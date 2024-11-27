@@ -63,6 +63,11 @@ def scrape():
     return jsonify(results)
 
 
+@app.route('/check', methods=['POST'])
+def check():
+    return jsonify({"Output":"Flipkart Server is running"}) 
+
+
 if __name__ == '__main__':
     # app.run(debug=True)
     app.run(host='0.0.0.0', port=5000, debug=True)
