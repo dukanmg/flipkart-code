@@ -60,7 +60,12 @@ def scrape():
         return await asyncio.gather(*tasks)
 
     results = asyncio.run(scrape_all())
-    return jsonify(results)
+    
+    if len(results)>0:
+        return jsonify(results[0])
+    else:
+        return jsonify(results)
+
 
 
 @app.route('/check', methods=['POST'])
